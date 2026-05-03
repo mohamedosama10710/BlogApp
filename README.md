@@ -4,9 +4,9 @@ A responsive news web application built with React and Tailwind CSS that fetches
 
 ## Preview
 
-![App Screenshot](./blog/src/assets/Screenshot%202026-05-03%20133433.png)
-![App Screenshot](./blog/src/assets/Screenshot%202026-05-03%20133454.png)
-![App Screenshot](./blog/src/assets/Screenshot%202026-05-03%20133514.png)
+(./blog/src/assets/Screenshot%202026-05-03%20133433.png)
+(./blog/src/assets/Screenshot%202026-05-03%20133454.png)
+(./blog/src/assets/Screenshot%202026-05-03%20133514.png)
 
 ## Features
 
