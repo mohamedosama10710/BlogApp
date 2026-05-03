@@ -34,7 +34,7 @@ const Navbar = () => {
   return (
       <header className='bg-black fixed left-0 right-0'>
           <nav className='px-4 py-4 flex justify-between max-w-7xl mx-auto items-center'>
-              <a className='text-xl text-white' href="/">My <span className='text-orange-600 text-xl font-bold'>Blog</span></a>
+              <a className='text-xl text-white' href="/"> <span className='text-orange-600 text-xl font-bold'>Blogify</span></a>
 
               <ul className='md:flex gap-12 text-lg text-white hidden'>
                   {navItems.map(({path,link}, index) => <li key={index} ><NavLink className={({ isActive }) =>
