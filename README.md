@@ -3,10 +3,9 @@
 A responsive news web application built with React and Tailwind CSS that fetches and displays news articles using an external API.
 
 ## Preview
-
-(./blog/src/assets/Screenshot%202026-05-03%20133433.png)
-(./blog/src/assets/Screenshot%202026-05-03%20133454.png)
-(./blog/src/assets/Screenshot%202026-05-03%20133514.png)
+![Home](./blog/src/assets/Home.png)
+![News](./blog/src/assets/Home2.png)
+![Footer](./blog/src/assets/Home3.png)
 
 ## Features
 
