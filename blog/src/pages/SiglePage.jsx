@@ -8,7 +8,7 @@ const SiglePage = () => {
   return (
     <div>
       <div className='py-40 px-4 text-center bg-black text-white'>
-       <h1 className='text-5xl lg:text-7xl font-bold mb-5 '>single blog bage</h1>
+       <h1 className='text-5xl lg:text-7xl font-bold mb-5 '>single blog Page</h1>
       </div>
       
       {/* blog details */}
